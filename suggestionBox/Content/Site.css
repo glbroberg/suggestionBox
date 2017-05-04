@@ -22,3 +22,13 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.redButton{
+    background-color:red;
+    border:red;
+}
+
+.greyButton{
+    background-color:grey;
+    border:grey;
+}

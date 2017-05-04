@@ -38,3 +38,7 @@ c:\users\garrett\documents\visual studio 2015\Projects\suggestionBox\suggestionB
 c:\users\garrett\documents\visual studio 2015\Projects\suggestionBox\suggestionBox\obj\Debug\suggestionBox.csprojResolveAssemblyReference.cache
 c:\users\garrett\documents\visual studio 2015\Projects\suggestionBox\suggestionBox\obj\Debug\suggestionBox.dll
 c:\users\garrett\documents\visual studio 2015\Projects\suggestionBox\suggestionBox\obj\Debug\suggestionBox.pdb
+C:\Users\Garrett\Documents\Visual Studio 2015\Projects\suggestionBox\suggestionBox\bin\EntityFramework.dll
+C:\Users\Garrett\Documents\Visual Studio 2015\Projects\suggestionBox\suggestionBox\bin\EntityFramework.SqlServer.dll
+C:\Users\Garrett\Documents\Visual Studio 2015\Projects\suggestionBox\suggestionBox\bin\EntityFramework.xml
+C:\Users\Garrett\Documents\Visual Studio 2015\Projects\suggestionBox\suggestionBox\bin\EntityFramework.SqlServer.xml
